@@ -1,0 +1,164 @@
+{
+  "products":[
+      {
+          "id":0,
+          "img":"/images/1.png",
+          "title":"자카이드 니트 스웨터",
+          "price":29900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":1,
+          "img":"/images/2.png",
+          "title":"파인 니트 가디건",
+          "price":26900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":2,
+          "img":"/images/3.png",
+          "title":"리브 니트 터틀 탑",
+          "price":19900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":3,
+          "img":"/images/4.png",
+          "title":"와이드 웨이스트 진",
+          "price":39900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":4,
+          "img":"/images/5.png",
+          "title":"크롭트 탑",
+          "price":19900,
+          "choice":true,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":5,
+          "img":"/images/6.png",
+          "title":"메쉬 슬립 드레스",
+          "price":39900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":6,
+          "img":"/images/7.png",
+          "title":"코튼 패러슈트 스커트",
+          "price":39900,
+          "choice":true,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":7,
+          "img":"/images/8.png",
+          "title":"캔버스 카고 팬츠",
+          "price":29900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":8,
+          "img":"/images/9.png",
+          "title":"프린트 크롭트 티셔츠",
+          "price":14900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":9,
+          "img":"/images/10.png",
+          "title":"시어 레이스 스트랩 탑",
+          "price":19900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":10,
+          "img":"/images/11.png",
+          "title":"트루 슬립 진",
+          "price":79900,
+          "choice":true,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":11,
+          "img":"/images/12.png",
+          "title":"A라인 저지 드레스",
+          "price":29900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":12,
+          "img":"/images/13.png",
+          "title":"오버사이즈 프린트 티셔츠",
+          "price":14900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":13,
+          "img":"/images/14.png",
+          "title":"테일러스 팬츠",
+          "price":29900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":14,
+          "img":"/images/15.png",
+          "title":"니트 스웨터",
+          "price":19900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":15,
+          "img":"/images/16.png",
+          "title":"테일러스 가디건",
+          "price":36000,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+
+      }
+  ]
+}

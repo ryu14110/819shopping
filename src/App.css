@@ -1,0 +1,55 @@
+.login-button{
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px;
+  cursor: pointer;
+}
+.nav-section{
+  display: flex;
+  justify-content: center;
+}
+.menu-list{
+  display: flex;
+  list-style-type: none;
+}
+.menu-list li{
+  padding: 10px;
+}
+.menu-area{
+  display: flex;
+  justify-content: center;
+}
+.search-box{
+  position: absolute;
+  border-bottom: 1px solid black;
+  right: 20px;
+  padding: 5px;
+}
+.search-box input{
+  border: none;
+  margin-left: 5px;
+}
+.search-box input:focus{
+  outline: none;
+}
+.login-area{
+  display: flex;
+  justify-content: center;
+}
+.card{
+  border: none !important;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.card:hover{
+  transform: scale(1.1);
+  z-index: 1;
+}
+.product-img{
+  display: flex;
+  justify-content: flex-end;
+}
+.add-button{
+  margin-top: 20px;
+  width: 50%;
+}
